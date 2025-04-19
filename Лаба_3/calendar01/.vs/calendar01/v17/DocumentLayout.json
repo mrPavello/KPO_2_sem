@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\leapYear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\leapYear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\yearsMonth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\yearsMonth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\dayOfYear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\dayOfYear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\countOfDayUntilBirthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\countOfDayUntilBirthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08669D4-0622-4235-A595-42F09B69965E}|Laba_1\\Laba_1.vcxproj|solutionrelative:Laba_1\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "date.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\date.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\date.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\date.cpp",
+              "RelativeToolTip": "Laba_1\\date.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwE0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-02T10:53:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "yearsMonth.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\yearsMonth.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\yearsMonth.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\yearsMonth.cpp",
+              "RelativeToolTip": "Laba_1\\yearsMonth.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T13:25:41.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\stdafx.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\stdafx.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\stdafx.cpp",
+              "RelativeToolTip": "Laba_1\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T14:26:11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\stdafx.h",
+              "RelativeDocumentMoniker": "Laba_1\\stdafx.h",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\stdafx.h",
+              "RelativeToolTip": "Laba_1\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-19T14:25:31.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "countOfDayUntilBirthday.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\countOfDayUntilBirthday.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\countOfDayUntilBirthday.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\countOfDayUntilBirthday.cpp",
+              "RelativeToolTip": "Laba_1\\countOfDayUntilBirthday.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T14:24:21.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dayOfYear.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\dayOfYear.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\dayOfYear.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\dayOfYear.cpp",
+              "RelativeToolTip": "Laba_1\\dayOfYear.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T14:21:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\main.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\main.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\main.cpp",
+              "RelativeToolTip": "Laba_1\\main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T14:19:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leapYear.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\leapYear.cpp",
+              "RelativeDocumentMoniker": "Laba_1\\leapYear.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_3\\calendar01\\Laba_1\\leapYear.cpp",
+              "RelativeToolTip": "Laba_1\\leapYear.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T14:23:05.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFE7F76-0EDB-407F-9780-54264FB495D3}|..\\SE_Lab.05\\SE_Lab.05.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFE7F76-0EDB-407F-9780-54264FB495D3}|..\\SE_Lab.05\\SE_Lab.05.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFE7F76-0EDB-407F-9780-54264FB495D3}|..\\SE_Lab.05\\SE_Lab.05.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dictionary.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\Dictionary.cpp",
+              "RelativeDocumentMoniker": "..\\SE_Lab.05\\Dictionary.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\Dictionary.cpp",
+              "RelativeToolTip": "..\\SE_Lab.05\\Dictionary.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T14:19:12.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\stdafx.h",
+              "RelativeDocumentMoniker": "..\\SE_Lab.05\\stdafx.h",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\stdafx.h",
+              "RelativeToolTip": "..\\SE_Lab.05\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T14:17:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dictionary.h",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\Dictionary.h",
+              "RelativeDocumentMoniker": "..\\SE_Lab.05\\Dictionary.h",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_5\\SE_Lab.05\\Dictionary.h",
+              "RelativeToolTip": "..\\SE_Lab.05\\Dictionary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T14:16:27.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

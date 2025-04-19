@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686631-FE22-471B-900B-7F4BBBFF3405}|SE_Lab07\\SE_Lab07.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\SE_Lab07\\Call.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686631-FE22-471B-900B-7F4BBBFF3405}|SE_Lab07\\SE_Lab07.vcxproj|solutionrelative:SE_Lab07\\Call.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B686631-FE22-471B-900B-7F4BBBFF3405}|SE_Lab07\\SE_Lab07.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\SE_Lab07\\Call.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B686631-FE22-471B-900B-7F4BBBFF3405}|SE_Lab07\\SE_Lab07.vcxproj|solutionrelative:SE_Lab07\\Call.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Call.h",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\SE_Lab07\\Call.h",
+              "RelativeDocumentMoniker": "SE_Lab07\\Call.h",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\SE_Lab07\\Call.h",
+              "RelativeToolTip": "SE_Lab07\\Call.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T14:19:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Call.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\SE_Lab07\\Call.cpp",
+              "RelativeDocumentMoniker": "SE_Lab07\\Call.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_7\\SE_Lab07\\Call.cpp",
+              "RelativeToolTip": "SE_Lab07\\Call.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T14:18:30.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿  2
+  SE_Lab06L.lib
+  stdafx.cpp
+E:\2(1,1): error C1083: Не удается открыть файл источник: E:\2: No such file or directory,
+  (компиляция исходного файла "../../../../../2")
+  
+/семестр/КПО/Лаба_6/SE_Lab06S/x64/Debug/SE_Lab06L.lib(1,1): error C1083: Не удается открыть файл источник: семестр\КПО\Лаба_6\SE_Lab06S\x64\Debug\SE_Lab06L.lib: No such file or directory,
+  (компиляция исходного файла "/семестр/КПО/Лаба_6/SE_Lab06S/x64/Debug/SE_Lab06L.lib")
+  

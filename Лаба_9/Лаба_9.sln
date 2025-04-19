@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SELab09", "SELab09\SELab09.vcxproj", "{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Debug|x64.ActiveCfg = Debug|x64
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Debug|x64.Build.0 = Debug|x64
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Debug|x86.Build.0 = Debug|Win32
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Release|x64.ActiveCfg = Release|x64
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Release|x64.Build.0 = Release|x64
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Release|x86.ActiveCfg = Release|Win32
+		{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E04337E2-E400-48A6-B70D-C1EA6017FF50}
+	EndGlobalSection
+EndGlobal

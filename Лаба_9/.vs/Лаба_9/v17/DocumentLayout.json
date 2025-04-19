@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}|SELab09\\SELab09.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\Varparm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}|SELab09\\SELab09.vcxproj|solutionrelative:SELab09\\Varparm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}|SELab09\\SELab09.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}|SELab09\\SELab09.vcxproj|solutionrelative:SELab09\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}|SELab09\\SELab09.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\Varparm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765EDF4E-1C31-4AD7-A7B0-77F74E83C0A9}|SELab09\\SELab09.vcxproj|solutionrelative:SELab09\\Varparm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\main.cpp",
+              "RelativeDocumentMoniker": "SELab09\\main.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\main.cpp",
+              "RelativeToolTip": "SELab09\\main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T20:58:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Varparm.h",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\Varparm.h",
+              "RelativeDocumentMoniker": "SELab09\\Varparm.h",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\Varparm.h",
+              "RelativeToolTip": "SELab09\\Varparm.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T20:00:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Varparm.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\Varparm.cpp",
+              "RelativeDocumentMoniker": "SELab09\\Varparm.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u041E\\\u041B\u0430\u0431\u0430_9\\SELab09\\Varparm.cpp",
+              "RelativeToolTip": "SELab09\\Varparm.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T20:00:05.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
